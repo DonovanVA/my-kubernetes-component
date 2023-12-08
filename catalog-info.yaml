@@ -4,7 +4,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: my-kubernetes-component
     backstage.io/techdocs-ref: dir:.
-  name: my-kubernetes-component
+  name: legacy-system-A
 spec:
   lifecycle: production
   owner: my-team
